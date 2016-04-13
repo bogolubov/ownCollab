@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>owncollab</id>
+    <name>Owncollab Dashboard</name>
+    <description>application owncollab dashboard</description>
+    <licence>AGPL</licence>
+    <author>OwnCollab Team</author>
+    <version>0.0.1</version>
+    <namespace>Owncollab</namespace>
+    <category>other</category>
+    <dependencies>
+        <owncloud min-version="8.1" />
+    </dependencies>
+</info>
