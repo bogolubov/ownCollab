@@ -11,8 +11,6 @@
         <div id="app-content-error"></div>
 		<div id="app-content-wrapper">
 			<?php print_unescaped($this->inc('part.content')); ?>
-
-			<?php echo $this->inc('part.loader');?>
 		</div>
 	</div>
     <div id="app-sidebar" class="disappear">
