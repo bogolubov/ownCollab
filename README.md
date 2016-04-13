@@ -1,17 +1,15 @@
-# Owncollab Chart
+# OwnCollab Dashboard
 
 Place this app in **owncloud/apps/**
 
 ## Application Destination
 
-The application is dependent for part of Owncollab
+The application is dependent for part of OwnCollab
 
-- owncollab
-- owncollab
-- owncollab_talks
 - __owncollab__
-
-Destination of application is displaying specific calendar 
+- owncollab_chart
+- owncollab_talks
+- owncollab_calendar
 
 ## Publish to App Store
 
